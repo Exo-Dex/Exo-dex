@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Exo-dex
+- 👋 Hi, I’m Piyush Borkar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python & AI&DS
 - 💞️ I’m looking to collaborate on some interesting python projects
