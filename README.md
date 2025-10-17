@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piyush Borkar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python & AI&DS
+- 🌱 I’m currently exploring Python, AI and Data Science
 - 💞️ I’m looking to collaborate on some interesting python projects
 - 📫 How to reach me piyushborkar.official@gmail.com
 - 😄 Pronouns: He/Him
