@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/digital-technology-background-with-abstract-glowing-lines_52683-49013.jpg?w=996&t=st=1672852026~exp=1672852626~hmac=8c1e4c76b4328325a0b1c2e43e2e0e2d3e0b1c2e43e2e0e2d3e0b1c2e43e2e0e" width="800" height="200">
+  <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="800" height="300">
 </p>
 
-<h1 align="center">Hi, I'm Piyush Borkar 🇮🇳</h1>
+<h1 align="center">Hi, I'm Piyush Borkar</h1>
 
 <p align="center">
-  <b>AI & Data Science Student | Aspiring ML Engineer | Turning Curiosity into Code</b><br>
+  <b>AI & Data Science Student | Aspiring Data Scientist | Turning Curiosity into Code</b><br>
   <a href="https://your-portfolio-website.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">🐦 Twitter</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">💼 LinkedIn</a>
+  <a href="https://twitter.com/piyush1borkar" target="_blank">🐦 Twitter</a> •
+  <a href="https://www.linkedin.com/in/piyush-borkar" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
@@ -17,9 +17,9 @@
 
 - 🎓 I'm a third-semester B.Tech student in **Artificial Intelligence & Data Science**.
 - 👨‍💻 I love building things with code and exploring the world of open source.
-- 🔭 I’m currently focused on strengthening my skills in **Python, C++, and Data Science**.
+- 🔭 I’m currently focused on strengthening my skills in **Python, AI Engineering, and Data Science**.
 - 💬 Ask me about **AI, machine learning, or anything tech-related**!
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[piyushborkar.official@gmail.com](mailto:piyushborkar.official@gmail.com)**
 
 ---
 
@@ -47,10 +47,10 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/piyush-borkar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
+  <a href="https://twitter.com/piyush1borkar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://github.com/Exo-Dex">
