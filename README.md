@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Piyush Borkar 🇮🇳</h1>
-
 <p align="center">
-  <b>AI & Data Science Student | Aspiring ML Engineer | Turning Curiosity into Code</b><br>
-  <a href="https://your-portfolio-website.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">🐦 Twitter</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">💼 LinkedIn</a>
+  <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="800" height="300">
 </p>
 
+<h1 align="center">Hi, I'm Piyush Borkar</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Exo-Dex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <b>AI & Data Science Student | Aspiring Data Scientist | Turning Curiosity into Code</b><br>
+  <a href="https://your-portfolio-website.com" target="_blank">🌐 Portfolio</a> •
+  <a href="https://twitter.com/piyush1borkar" target="_blank">🐦 Twitter</a> •
+  <a href="https://www.linkedin.com/in/piyush-borkar" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
@@ -17,29 +17,43 @@
 
 - 🎓 I'm a third-semester B.Tech student in **Artificial Intelligence & Data Science**.
 - 👨‍💻 I love building things with code and exploring the world of open source.
-- 🔭 I’m currently focused on strengthening my skills in **Python, C++, and Data Science**.
+- 🔭 I’m currently focused on strengthening my skills in **Python, AI Engineering, and Data Science**.
 - 💬 Ask me about **AI, machine learning, or anything tech-related**!
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[piyushborkar.official@gmail.com](mailto:piyushborkar.official@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pandas,numpy,scikitlearn" height="32"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exo-Dex&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exo-Dex&layout=compact&theme=tokyonight" height="150"/>
-</p>
+| GitHub Stats                                                                                                         | Top Languages                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=Exo-Dex&show_icons=true&theme=vision-friendly-dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exo-Dex&layout=compact&theme=vision-friendly-dark" /> |
 
 ---
 
+## 🤝 Let’s Connect
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Exo-Dex&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <a href="https://www.linkedin.com/in/piyush-borkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/piyush1borkar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/Exo-Dex">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
