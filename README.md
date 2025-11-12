@@ -1,12 +1,59 @@
-- 👋 Hi, I’m Piyush Borkar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently exploring Python, AI and Data Science
-- 💞️ I’m looking to collaborate on some interesting python projects
-- 📫 How to reach me piyushborkar.official@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Programmer is someone who coverts coffee into code...
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/digital-technology-background-with-abstract-glowing-lines_52683-49013.jpg?w=996&t=st=1672852026~exp=1672852626~hmac=8c1e4c76b4328325a0b1c2e43e2e0e2d3e0b1c2e43e2e0e2d3e0b1c2e43e2e0e" width="800" height="200">
+</p>
 
-<!---
-Exo-dex/Exo-dex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi, I'm Piyush Borkar 🇮🇳</h1>
+
+<p align="center">
+  <b>AI & Data Science Student | Aspiring ML Engineer | Turning Curiosity into Code</b><br>
+  <a href="https://your-portfolio-website.com" target="_blank">🌐 Portfolio</a> •
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">🐦 Twitter</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">💼 LinkedIn</a>
+</p>
+
+---
+
+## 👤 About Me
+
+- 🎓 I'm a third-semester B.Tech student in **Artificial Intelligence & Data Science**.
+- 👨‍💻 I love building things with code and exploring the world of open source.
+- 🔭 I’m currently focused on strengthening my skills in **Python, C++, and Data Science**.
+- 💬 Ask me about **AI, machine learning, or anything tech-related**!
+- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats                                                                                                         | Top Languages                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=Exo-Dex&show_icons=true&theme=vision-friendly-dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exo-Dex&layout=compact&theme=vision-friendly-dark" /> |
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/Exo-Dex">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
