@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-handle&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Exo-Dex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pandas,numpy,scikitlearn,git,github,vscode" height="32"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pandas,numpy,scikitlearn" height="32"/>
 </p>
 
 ---
@@ -34,12 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-handle&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Exo-Dex&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exo-Dex&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-handle/your-github-handle/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Exo-Dex&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
