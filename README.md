@@ -15,7 +15,7 @@
 
 ## 👤 About Me
 
-- 🎓 I'm a third-semester B.E. student in **Artificial Intelligence & Data Science**.
+- 🎓 I'm a second-year B.E. student in **Artificial Intelligence & Data Science**.
 - 👨‍💻 I love building things with code and exploring the world of open source.
 - 🔭 I’m currently focused on strengthening my skills in **Python, AI Engineering, and Data Science**.
 - 💬 Ask me about **AI, machine learning, or anything tech-related**!
